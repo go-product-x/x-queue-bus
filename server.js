@@ -1,5 +1,5 @@
 //Require modules
-//require('dotenv').config() //Uncomment for use in local environment
+require('dotenv').config() //Uncomment for use in local environment
 const express = require('express')
 const bodyParser = require('body-parser')
 
